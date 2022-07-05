@@ -39,8 +39,8 @@
     display: none;
     position: absolute;
     top: 0px;
-    left: 140px;
-    height: 100%;
+    left: 139px;
+    /* height: 100%; */
 }
 .subsub-nav-container {
     position: relative;
