@@ -48,7 +48,7 @@
 .subsub-nav-container:hover > .subsub-nav-menu {
     display: inline-block;
 }
-.heading{
+.head-name{
     color: firebrick;
     font-size: 26;
     font-weight: bold;
